@@ -113,15 +113,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039222_0000_1013F90C53E89A78"/>
-            <pb facs="tcp:039222_0001_1013F9110A1DD418"/>
+            <pb facs="unknown:039222_0000_1013F90C53E89A78"/>
+            <pb facs="unknown:039222_0001_1013F9110A1DD418"/>
             <p>THE SHORTER CATECHISM Agreed upon by The Reverend Aſſembly OF DIVINES AT WESTMINSTER.</p>
             <p>CAMBRIDGE, Printed by <hi>Samuel Green,</hi> for <hi>Samuel Phillips</hi> in Boſton 1682.</p>
          </div>
       </front>
       <body>
          <div type="catechism">
-            <pb facs="tcp:039222_0002_1013F912D4B521D8"/>
+            <pb facs="unknown:039222_0002_1013F912D4B521D8"/>
             <head>The Shorter Catechiſm Agreed upon by the ASSEMBLY of DIVINES At Weſtminſter,</head>
             <p>Queſt. <hi>WHat is the chief end of Man?</hi>
             </p>
@@ -143,7 +143,7 @@
             <p>Qu. <hi>What is God?</hi>
             </p>
             <p>
-               <pb facs="tcp:039222_0003_1013F91526E26FF0"/>A. God is a ſpirit <note n="f" place="margin">
+               <pb facs="unknown:039222_0003_1013F91526E26FF0"/>A. God is a ſpirit <note n="f" place="margin">
                   <hi>John</hi> 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>4. <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -211,7 +211,7 @@
                      <desc>•</desc>
                   </gap>.3</note>.</p>
             <p n="10">
-               <pb facs="tcp:039222_0004_1013F916AD13E2F0"/>10 <hi>Q. How did God create man?</hi>
+               <pb facs="unknown:039222_0004_1013F916AD13E2F0"/>10 <hi>Q. How did God create man?</hi>
             </p>
             <p>A. God created man male and fe<g ref="char:EOLhyphen"/>male after his own Image in knowledg righteouſneſs and holineſs, with domi<g ref="char:EOLhyphen"/>nion over the creatures <note n="t" place="margin">
                   <hi>Gen.</hi> 
@@ -255,7 +255,7 @@
                   </gap> ſin,</hi>
             </p>
             <p>A. Sin is any want of conformity
-<pb facs="tcp:039222_0005_1013F919146E0E88"/>
+<pb facs="unknown:039222_0005_1013F919146E0E88"/>
 unto, or tranſgreſſion of the Law of God <note n="b" place="margin">1 <hi>John</hi> 8.4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -289,7 +289,7 @@ unto, or tranſgreſſion of the Law of God <note n="b" place="margin">1 <hi>Joh
             </p>
             <p>
                <hi>A.</hi> The ſinfulneſs of that eſtate whereinto man fell, conſiſts in the guilt of Adams firſt ſin, the want of origi<g ref="char:EOLhyphen"/>nal righteouſneſs, and the corruption of his whole nature, which is common<g ref="char:EOLhyphen"/>ly
-<pb facs="tcp:039222_0006_1013F91BCDA06F10"/>
+<pb facs="unknown:039222_0006_1013F91BCDA06F10"/>
 called original Sin, together with all actual Tranſgreſſions which proceed from it <note n="f" place="margin">
                   <hi>Rom.</hi> 5.12, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -346,7 +346,7 @@ called original Sin, together with all actual Tranſgreſſions which proceed fr
                      <desc>•</desc>
                   </gap>4</note> and one Perſon forever,</p>
             <p>
-               <pb facs="tcp:039222_0007_1013F91E2DBCD4F0"/>
+               <pb facs="unknown:039222_0007_1013F91E2DBCD4F0"/>
                <hi>Q. How did Chriſt being the Son of God become man<g ref="char:punc">▪</g>
                </hi>
             </p>
@@ -392,7 +392,7 @@ called original Sin, together with all actual Tranſgreſſions which proceed fr
             </p>
             <p>A. Chriſt executeth the Office of a Prieſt in his once offering up of him<g ref="char:EOLhyphen"/>ſelf a ſacrifice to ſatisfie divine juſtice <note n="w" place="margin">
                   <hi>Heb</hi> 9.14, 9.</note>,
-<pb n="7" facs="tcp:039222_0008_1013F920987BAF58"/>
+<pb n="7" facs="unknown:039222_0008_1013F920987BAF58"/>
 and reconcile us to God <note n="x" place="margin">
                   <hi>Heb.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -447,7 +447,7 @@ and reconcile us to God <note n="x" place="margin">
                   </gap>1.</note>,</p>
             <p>
                <hi>Q, How are we made partakers
-<pb n="8" facs="tcp:039222_0009_1013F923027ADB70"/>
+<pb n="8" facs="unknown:039222_0009_1013F923027ADB70"/>
 of the Redemption purchaſed by Chriſt?</hi>
             </p>
             <p>
@@ -505,7 +505,7 @@ of the Redemption purchaſed by Chriſt?</hi>
                   </gap>
                </note>.</p>
             <p>
-               <pb n="9" facs="tcp:039222_0010_1013F9248954F250"/>Q. <hi>What is Iuſtification?</hi>
+               <pb n="9" facs="unknown:039222_0010_1013F9248954F250"/>Q. <hi>What is Iuſtification?</hi>
             </p>
             <p>
                <hi>A</hi> Juſtification is an act of Gods free grace, wherein he pardoneth all our ſins <note n="c" place="margin">
@@ -540,7 +540,7 @@ of the Redemption purchaſed by Chriſt?</hi>
                   </gap>
                </note>, and perſeverance ther<g ref="char:EOLhyphen"/>in to the end <note n="p" place="margin">1 <hi>Pet.</hi> 1.5. 1 <hi>Pet.</hi> 4.18.</note>,</p>
             <p>
-               <pb n="10" facs="tcp:039222_0011_1013F927CE733030"/>
+               <pb n="10" facs="unknown:039222_0011_1013F927CE733030"/>
                <hi>Q. what benefits do belivers receive from Chriſt at death,</hi>
             </p>
             <p>A. The Soules of believers are at their death made perfect in holineſs <note n="q" place="margin">
@@ -585,7 +585,7 @@ of the Redemption purchaſed by Chriſt?</hi>
                <hi>Q. Where is the Moral Law ſumma<g ref="char:EOLhyphen"/>rily comprehended?</hi>
             </p>
             <p>
-               <pb n="11" facs="tcp:039222_0012_1013F92A29074008"/>A. The Moral Law is ſummarily com<g ref="char:EOLhyphen"/>prehended in the ten Commandments <note n="c" place="margin">
+               <pb n="11" facs="unknown:039222_0012_1013F92A29074008"/>A. The Moral Law is ſummarily com<g ref="char:EOLhyphen"/>prehended in the ten Commandments <note n="c" place="margin">
                   <hi>De<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>.</hi> 10.4<g ref="char:punc">▪</g>
@@ -625,7 +625,7 @@ of the Redemption purchaſed by Chriſt?</hi>
             <p>qu. <hi>What is required in the firſt Com<g ref="char:EOLhyphen"/>mandment?</hi>
             </p>
             <p>A. The firſt Commandment requireth
-<pb n="12" facs="tcp:039222_0013_1013F92C8972BB50"/>
+<pb n="12" facs="unknown:039222_0013_1013F92C8972BB50"/>
 us to know and acknowledge God to be the only true God, and our God <note n="h" place="margin">1 <hi>Chron.</hi> 8.9. <hi>Deu.</hi> 26.17</note>, and to wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ſhip and glorifie him accor<g ref="char:EOLhyphen"/>dingly <note n="i" place="margin">
@@ -665,7 +665,7 @@ us to know and acknowledge God to be the only true God, and our God <note n="h" 
                   </gap>ch is the ſecond Command<g ref="char:EOLhyphen"/>ment?</hi>
             </p>
             <p>A. The ſecond Commandment is, <hi>Thou ſhalt not make unto thee any graven Image, or the likeneſs of any thing that is in Heaven above, or that is in the Earth beneath: or that is in the water under the Earth thou ſhalt not bow down thy ſelf
-<pb n="13" facs="tcp:039222_0014_1013F92E1A46E9D8"/>
+<pb n="13" facs="unknown:039222_0014_1013F92E1A46E9D8"/>
 to them nor ſerve them, for</hi> I <hi>the Lord thy God am a jealous God, viſiting the iniquity of the Fathers upon the Children unto the third and fourth generation of them that hate me, and ſhewing mercy un<g ref="char:EOLhyphen"/>to thouſands of them that <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ove me &amp; keep</hi> my Commandments <note n="p" place="margin">
@@ -717,7 +717,7 @@ to them nor ſerve them, for</hi> I <hi>the Lord thy God am a jealous God, viſi
             </p>
             <p>Q, <hi>Which is the third Commandment</hi>?</p>
             <p>
-               <pb n="14" facs="tcp:039222_0015_1013F930AABF8EC8"/>A. The third Commandment is, <hi>Thou ſhalt not take the Name of the Lord thy</hi> God <hi>in vain, for the Lord will not hold him guiltleſs that taketh his Name in vain</hi> 
+               <pb n="14" facs="unknown:039222_0015_1013F930AABF8EC8"/>A. The third Commandment is, <hi>Thou ſhalt not take the Name of the Lord thy</hi> God <hi>in vain, for the Lord will not hold him guiltleſs that taketh his Name in vain</hi> 
                <note n="x" place="margin">
                   <hi>Exod.</hi> 10</note>,</p>
             <p>Q. <hi>What is required in the third Commandment?</hi>
@@ -767,7 +767,7 @@ to them nor ſerve them, for</hi> I <hi>the Lord thy God am a jealous God, viſi
                <hi>Qu. Which is the fourth Command<g ref="char:EOLhyphen"/>ment?</hi>
             </p>
             <p>A. The fourth Commadment is,
-<pb n="15" facs="tcp:039222_0016_1013F934E98B7F80"/>
+<pb n="15" facs="unknown:039222_0016_1013F934E98B7F80"/>
                <hi>Remember the Sabbath day to keep it holy Six dayes ſhalt thou labour, and do all thy work, but the ſeventh day is the Sab<g ref="char:EOLhyphen"/>bath of the Lord thy God: i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> it thou ſhalt not do any work, Thou, nor thy Son, nor thy Daughter, nor thy Man-ſerva<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -808,7 +808,7 @@ to them nor ſerve them, for</hi> I <hi>the Lord thy God am a jealous God, viſi
                </gap>ay of the Week ever ſince to co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="16" facs="tcp:039222_0017_1013F9366CBF75A8"/>
+               <pb n="16" facs="unknown:039222_0017_1013F9366CBF75A8"/>
 to the end of the world, which is the Chriſtian Sabbath <note n="i" place="margin">
                   <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
